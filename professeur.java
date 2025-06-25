@@ -30,3 +30,11 @@ public class Professeur {
 
     
 }
+
+git checkout -b ecole 
+git push origin ecole 
+git branch
+
+git add .
+git commit -m "Ajour de classe dans ecole"
+git push origin ecole
